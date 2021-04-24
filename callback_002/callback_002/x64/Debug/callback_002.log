@@ -1,0 +1,23 @@
+﻿  Building 'callback_002' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\callback_002.inf
+  Stamping [Version] section with DriverVer=03/26/2021,15.9.38.957
+  Driver.c
+  callback_002.vcxproj -> C:\Users\me\Documents\Workshop\callback_002\x64\Debug\callback_002.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\me\Documents\Workshop\callback_002\x64\Debug\callback_002.sys
+  
+  Driver is a Universal Driver.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\me\Documents\Workshop\callback_002\x64\Debug\callback_002\callback_002.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\me\Documents\Workshop\callback_002\x64\Debug\callback_002\callback_002.cat
+  

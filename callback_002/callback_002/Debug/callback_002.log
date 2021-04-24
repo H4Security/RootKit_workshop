@@ -1,0 +1,5 @@
+﻿  Building 'callback_002' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping Debug\callback_002.inf
+  Stamping [Version] section with DriverVer=01/04/2021,17.19.15.782
+  Source.cpp
+C:\Users\me\source\repos\callback_002\callback_002\Source.cpp(35,32): error C2065: 'CallBackDriverUnload': undeclared identifier

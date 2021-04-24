@@ -1,0 +1,2 @@
+C:\Users\_Lab1\source\repos\FsFilter1_HideFile\Debug\FsFilter1_HideFile.sys
+C:\Users\_Lab1\source\repos\FsFilter1_HideFile\Debug\FsFilter1_HideFile.pdb

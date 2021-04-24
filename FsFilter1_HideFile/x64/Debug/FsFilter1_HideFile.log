@@ -1,0 +1,26 @@
+﻿  Building 'FsFilter1_HideFile' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\FsFilter1_HideFile.inf
+  Stamping [Version] section with DriverVer=04/09/2021,18.51.28.368
+C:\Users\me\Documents\Workshop\FsFilter1_HideFile\FsFilter1_HideFile.inf : warning 1420: [DefaultInstall]-based INF cannot be processed as Primitive.
+C:\Users\me\Documents\Workshop\FsFilter1_HideFile\FsFilter1_HideFile.inf(26-26): warning 1421: Section [DefaultInstall] should have an architecture decoration.
+C:\Users\me\Documents\Workshop\FsFilter1_HideFile\FsFilter1_HideFile.inf(37-37): warning 1421: Section [DefaultUninstall] should have an architecture decoration.
+C:\Users\me\Documents\Workshop\FsFilter1_HideFile\FsFilter1_HideFile.inf(76-76): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  FsFilter1_HideFile.c
+  FsFilter1_HideFile.vcxproj -> C:\Users\me\Documents\Workshop\FsFilter1_HideFile\x64\Debug\FsFilter1_HideFile.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\me\Documents\Workshop\FsFilter1_HideFile\x64\Debug\FsFilter1_HideFile.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\me\Documents\Workshop\FsFilter1_HideFile\x64\Debug\FsFilter1_HideFile\fsfilter1_hidefile.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\me\Documents\Workshop\FsFilter1_HideFile\x64\Debug\FsFilter1_HideFile\fsfilter1_hidefile.cat
+  
